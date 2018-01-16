@@ -1,4 +1,3 @@
 # Game-Tracker
 This is an exercise project I've made for the Android Basics program at Udacity.
-
-<a href="Game-Tracker/app/src/main/AndroidManifest.xml"> This is a test link </a>. Please ignore =)
+Please feel free to <a href="https://github.com/chotaa/Game-Tracker/raw/master/app-debug.apk">download</a> the app =)
